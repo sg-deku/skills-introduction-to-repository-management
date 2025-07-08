@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @sg-deku
+/src/backend/database.py      @sg-deku
+/src/backend/routers/auth.py  @sg-deku
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @sg-deku
